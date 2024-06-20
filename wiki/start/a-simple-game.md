@@ -89,7 +89,7 @@ Moving on to the **Android project**, we want the application to be run in lands
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.badlogic.drop.android"
+    package="com.badlogic.drop"
     android:versionCode="1"
     android:versionName="1.0" >
 
